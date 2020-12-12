@@ -1,0 +1,2 @@
+# harshamangena.github.io
+Static
